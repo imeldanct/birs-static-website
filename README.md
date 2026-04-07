@@ -6,3 +6,5 @@ A static website for the Benue State Internal Revenue Service (BIRS), built from
 
 This is a static website I built as a front-end development project. The design was taken from a Figma mockup and 
 translated into code using only HTML and CSS. It is not an official BIRS website.
+
+PS: Use your PC to view
